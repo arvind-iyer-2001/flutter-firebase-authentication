@@ -1,8 +1,8 @@
-# flutter_login
+# Flutter Firebase Authentication
 
-A new Flutter project.
+Just an Example of How Bloc can be used in Firebase Authentication
 
-## Getting Started
+## To learn the basics have a look at these videos
 
 This project is a starting point for a Flutter application.
 
